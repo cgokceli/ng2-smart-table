@@ -1,9 +1,13 @@
 {
-  "name": "@cgokceli/ng2-smart-table",
+  "name": "@lordofnoldor/ng2-smart-table",
   "version": "1.0.0",
   "description": "Angular Smart Table",
   "author": "akveo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgokceli/ng2-smart-table.git"
+  },
   "dependencies": {
     "lodash": "^4.17.21",
     "tslib": "^2.3.1"
