@@ -14,7 +14,7 @@
     "url": "git+https://github.com/cgokceli/ng2-smart-table.git"
   },
   "files": [
-    "dist/ng2-smart-table/**/*"
+    "dist/**/*"
   ],
   "private": false,
   "dependencies": {
