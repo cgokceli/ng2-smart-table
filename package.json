@@ -1,6 +1,6 @@
 {
   "name": "@lordofnoldor/ng2-smart-table",
-  "version": "2.6.0",
+  "version": "2.6.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

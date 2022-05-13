@@ -1,6 +1,6 @@
 {
   "name": "@lordofnoldor/ng2-smart-table",
-  "version": "1.0.0",
+  "version": "2.6.2",
   "description": "Angular Smart Table",
   "author": "akveo",
   "license": "MIT",
@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "tslib": "^2.3.1"
+    "tslib": "^2.4.0"
   },
   "peerDependencies": {
     "ng2-completer": "^9.0.1",
-    "@angular/common": "13.3.1",
-    "@angular/core": "13.3.1",
-    "@angular/forms": "13.3.1"
+    "@angular/common": "13.3.8",
+    "@angular/core": "13.3.8",
+    "@angular/forms": "13.3.8"
   }
 }
