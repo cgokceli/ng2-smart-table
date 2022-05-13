@@ -7,13 +7,15 @@
     "build:lib": "ng build ng2-smart-table --configuration production",
     "test": "ng test",
     "release": "npm run build:lib && npm run publish",
-    "publish": "npm publish ./dist/ng2-smart-table",
     "e2e": "ng e2e"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cgokceli/ng2-smart-table.git"
   },
+  "files": [
+    "dist/ng2-smart-table/**/*"
+  ],
   "private": false,
   "dependencies": {
     "@angular/animations": "13.3.8",
